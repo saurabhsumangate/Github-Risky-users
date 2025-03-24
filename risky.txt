@@ -1,0 +1,4 @@
+"AadClientId": "fd82b3f7-1d17-4226-9a62-5803699d439a",
+"AadSecret": "8dc8a5b8-bb5e-4458-9fb5-e3762eef28d0",
+"AadTenantDomain": "expediacorp.onmicrosoft.com",
+"AadTenantId": "79efa2e2-5409-4b35-9714-ada0138ee76c",
